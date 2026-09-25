@@ -1,0 +1,13 @@
+{
+  "name": "ai-tool-scout",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI Tool Scout - Reviews, comparisons and practical guides for AI tools",
+  "scripts": {
+    "build": "node build.js",
+    "serve": "node build.js && node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
