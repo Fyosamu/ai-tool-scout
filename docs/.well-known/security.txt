@@ -1,0 +1,4 @@
+Contact: mailto:security@aitoolscout.com
+Expires: 2027-09-25T02:11:00.580Z
+Policy: https://aitoolscout.com/privacy-policy/
+Preferred-Languages: en

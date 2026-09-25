@@ -1,0 +1,10 @@
+/* TEAM */
+Editor: AI Tool Scout Editorial
+Contact: hello@aitoolscout.com
+Location: Worldwide
+
+/* SITE */
+Language: en
+Doctype: HTML5
+Components: Vanilla JS, no framework
+Host: Cloudflare Pages

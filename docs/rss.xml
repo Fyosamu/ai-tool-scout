@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Tool Scout</title>
+    <link>https://aitoolscout.com/</link>
+    <atom:link href="https://aitoolscout.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>Find the right AI tool in minutes, not weeks</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 25 Sep 2026 02:11:00 GMT</lastBuildDate>
+    <item>
+      <title>7 Best AI Writing Tools in 2026: Tested</title>
+      <link>https://aitoolscout.com/blog/best-ai-writing-tools-2026/</link>
+      <guid isPermaLink="true">https://aitoolscout.com/blog/best-ai-writing-tools-2026/</guid>
+      <description>We tested 14 AI writing tools across 40 real tasks. Here are the 7 worth paying for in 2026, with pricing, pros, cons and who each one suits.</description>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 GMT</pubDate>
+      <category>Comparisons</category>
+    </item>
+    <item>
+      <title>ChatGPT vs Claude: Which Is Better in 2026?</title>
+      <link>https://aitoolscout.com/blog/chatgpt-vs-claude-2026/</link>
+      <guid isPermaLink="true">https://aitoolscout.com/blog/chatgpt-vs-claude-2026/</guid>
+      <description>A head-to-head comparison based on 60 side-by-side tests: reasoning, writing, coding, long documents and real 2026 pricing.</description>
+      <pubDate>Sat, 12 Sep 2026 09:00:00 GMT</pubDate>
+      <category>Comparisons</category>
+    </item>
+    <item>
+      <title>How to Write Better Prompts: 5-Part Framework</title>
+      <link>https://aitoolscout.com/blog/how-to-write-better-prompts/</link>
+      <guid isPermaLink="true">https://aitoolscout.com/blog/how-to-write-better-prompts/</guid>
+      <description>Stop guessing at prompts. A repeatable five-part framework for getting consistent, useful output from ChatGPT, Claude and any AI assistant.</description>
+      <pubDate>Tue, 08 Sep 2026 09:00:00 GMT</pubDate>
+      <category>Guides</category>
+    </item>
+    <item>
+      <title>12 Free AI Tools Worth Using in 2026</title>
+      <link>https://aitoolscout.com/blog/free-ai-tools-worth-using/</link>
+      <guid isPermaLink="true">https://aitoolscout.com/blog/free-ai-tools-worth-using/</guid>
+      <description>No trials, no credit card, no fake free tiers. Twelve genuinely free AI tools for writing, images, coding and automation — with their limits.</description>
+      <pubDate>Wed, 02 Sep 2026 09:00:00 GMT</pubDate>
+      <category>Roundups</category>
+    </item>
+    <item>
+      <title>Automate Your Work Without Coding (2026 Guide)</title>
+      <link>https://aitoolscout.com/blog/automate-workflows-without-coding/</link>
+      <guid isPermaLink="true">https://aitoolscout.com/blog/automate-workflows-without-coding/</guid>
+      <description>Set up your first no-code automation with Make, Zapier or n8n — which one to pick, and the three workflows that pay for themselves first.</description>
+      <pubDate>Wed, 26 Aug 2026 09:00:00 GMT</pubDate>
+      <category>Guides</category>
+    </item>
+  </channel>
+</rss>
