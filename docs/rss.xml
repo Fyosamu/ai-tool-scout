@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Tool Scout</title>
+    <link>https://fyosamu.github.io/ai-tool-scout/</link>
+    <atom:link href="https://fyosamu.github.io/ai-tool-scout/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>Find the right AI tool in minutes, not weeks</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Oct 2026 01:38:13 GMT</lastBuildDate>
+    <item>
+      <title>7 Best AI Writing Tools in 2026</title>
+      <link>https://fyosamu.github.io/ai-tool-scout/blog/best-ai-writing-tools-2026/</link>
+      <guid isPermaLink="true">https://fyosamu.github.io/ai-tool-scout/blog/best-ai-writing-tools-2026/</guid>
+      <description>Seven AI writing tools compared for 2026 — pricing, strengths, limitations, and who each one suits. Scored against a fixed editorial rubric.</description>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 GMT</pubDate>
+      <category>Comparisons</category>
+    </item>
+    <item>
+      <title>ChatGPT vs Claude: Which Is Better in 2026?</title>
+      <link>https://fyosamu.github.io/ai-tool-scout/blog/chatgpt-vs-claude-2026/</link>
+      <guid isPermaLink="true">https://fyosamu.github.io/ai-tool-scout/blog/chatgpt-vs-claude-2026/</guid>
+      <description>ChatGPT vs Claude in 2026: reasoning, writing, coding, long documents and pricing — where each one actually wins, with a practical pick table.</description>
+      <pubDate>Sat, 12 Sep 2026 09:00:00 GMT</pubDate>
+      <category>Comparisons</category>
+    </item>
+    <item>
+      <title>How to Write Better Prompts: 5-Part Framework</title>
+      <link>https://fyosamu.github.io/ai-tool-scout/blog/how-to-write-better-prompts/</link>
+      <guid isPermaLink="true">https://fyosamu.github.io/ai-tool-scout/blog/how-to-write-better-prompts/</guid>
+      <description>Stop guessing at prompts. A repeatable five-part framework for getting consistent, useful output from ChatGPT, Claude and any AI assistant.</description>
+      <pubDate>Tue, 08 Sep 2026 09:00:00 GMT</pubDate>
+      <category>Guides</category>
+    </item>
+    <item>
+      <title>12 Free AI Tools Worth Using in 2026</title>
+      <link>https://fyosamu.github.io/ai-tool-scout/blog/free-ai-tools-worth-using/</link>
+      <guid isPermaLink="true">https://fyosamu.github.io/ai-tool-scout/blog/free-ai-tools-worth-using/</guid>
+      <description>No trials, no credit card, no fake free tiers. Twelve genuinely free AI tools for writing, images, coding and automation — with their limits.</description>
+      <pubDate>Wed, 02 Sep 2026 09:00:00 GMT</pubDate>
+      <category>Roundups</category>
+    </item>
+    <item>
+      <title>Automate Your Work Without Coding (2026 Guide)</title>
+      <link>https://fyosamu.github.io/ai-tool-scout/blog/automate-workflows-without-coding/</link>
+      <guid isPermaLink="true">https://fyosamu.github.io/ai-tool-scout/blog/automate-workflows-without-coding/</guid>
+      <description>Set up your first no-code automation with Make, Zapier or n8n — which one to pick, and the three workflows that pay for themselves first.</description>
+      <pubDate>Wed, 26 Aug 2026 09:00:00 GMT</pubDate>
+      <category>Guides</category>
+    </item>
+    <item>
+      <title>What Will Happen in the Next 5 Years? AI Predictions for 2031</title>
+      <link>https://fyosamu.github.io/ai-tool-scout/blog/what-will-happen-in-next-5-years-ai/</link>
+      <guid isPermaLink="true">https://fyosamu.github.io/ai-tool-scout/blog/what-will-happen-in-next-5-years-ai/</guid>
+      <description>Nine grounded predictions for 2031: agents at work, code written by software, on-device models, outcome-based pricing and a split regulatory map.</description>
+      <pubDate>Fri, 25 Sep 2026 09:00:00 GMT</pubDate>
+      <category>Trends</category>
+    </item>
+  </channel>
+</rss>

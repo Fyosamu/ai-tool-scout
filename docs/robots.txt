@@ -1,0 +1,16 @@
+# AI Tool Scout
+User-agent: *
+Allow: /
+
+# Ads crawlers
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: AdsBot-Google
+Allow: /
+
+# Crawl budget protection
+Disallow: /404.html
+Disallow: /page/
+
+Sitemap: https://fyosamu.github.io/ai-tool-scout/sitemap.xml

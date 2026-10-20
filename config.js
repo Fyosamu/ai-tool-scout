@@ -4,7 +4,7 @@
  * (canonical, OG tags, sitemap, hreflang, structured data) derives from here.
  */
 module.exports = {
-  SITE_URL: "https://scoutaitools.blogspot.com",
+  SITE_URL: "https://fyosamu.github.io/ai-tool-scout",
   SITE_NAME: "AI Tool Scout",
   TAGLINE: "Find the right AI tool in minutes, not weeks",
   LOGO_URL: "https://aitoolscout.com/logo.png",

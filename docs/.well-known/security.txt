@@ -1,0 +1,4 @@
+Contact: mailto:security@aitoolscout.com
+Expires: 2027-10-20T01:38:13.997Z
+Policy: https://fyosamu.github.io/ai-tool-scout/privacy-policy/
+Preferred-Languages: en
